@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2835b803.js",
+    "index.html": "/index.html",
+    "static/media/btn-send.svg": "/static/media/btn-send.bf29ae9285217148c7ee64478b89ec0f.svg",
+    "main.2835b803.js.map": "/static/js/main.2835b803.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2835b803.js"
+  ]
+}
